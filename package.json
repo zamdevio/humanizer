@@ -1,6 +1,6 @@
 {
   "name": "@zamdevio/humanizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skill for agents to generate more natural writing via tier-based prompt strategies.",
   "main": "index.js",
   "type": "commonjs",
