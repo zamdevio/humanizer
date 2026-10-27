@@ -10,7 +10,7 @@ const path = require('path');
  * - Preservation of meaning and citations
  */
 function getInstructions(tier) {
-  const prompt = fs.readFileSync(path.join(__dirname, 'prompt.md'), 'utf8');
+  const prompt = fs.readFileSync(path.join(__dirname, 'tiers.md'), 'utf8');
   const lines = prompt.split('\n');
   let tier_prompt_start_index = -1;
   let tier_prompt_end_index = -1;

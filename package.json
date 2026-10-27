@@ -6,7 +6,7 @@
   "type": "commonjs",
   "files": [
     "index.js",
-    "prompt.md",
+    "tiers.md",
     "SKILL.md"
   ],
   "author": "Zamdevio",

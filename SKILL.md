@@ -17,6 +17,10 @@ When asked:
 
 ## Instruction Sets
 
+The full, authoritative editing rules live in **`tiers.md`**. After the tier is selected, read `tiers.md` and apply **only** the matching tier section (`## [Tier 1]`, `## [Tier 2]`, or `## [Tier 3]`, plus its `## Global Constraints Across All Tiers`). Do not invent rules that are not in that file.
+
+The brief summary below is only for tier selection and disambiguation:
+
 ### Tier 1: The Polished Professional
 - Focus: Maximum syntactic fidelity; minimal variance.
 - Goal: Rectify clunky wording, precision, and flow.
@@ -31,12 +35,12 @@ When asked:
 
 ### Tier 3: Expressive & Distinctive
 - Focus: Character and authority.
-- Goal: None-linearly structured and high impact.
+- Goal: Non-linearly structured and high impact.
 - Key Rule: Experiment with less predictable phrases. Infuse the text with a specific sense of agency and opinion, while staying loyal to the user's original meaning.
 
 ## Safe Guards
 
-- **No Fabrication**: Never invent stories or statistics’ to make a human identity; reframe the existing info instead.
+- **No Fabrication**: Never invent stories or statistics to make a human identity; reframe the existing info instead.
 - **No Content Death**: Never shorten a piece so much that the argument is lost to satisfy "naturalness."
 - **Voice Consistency**: Do not flip between tiers; find one on the spectrum and hold it.
 
