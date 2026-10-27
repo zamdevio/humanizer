@@ -1,0 +1,14 @@
+{
+  "name": "@zamdevio/humanizer",
+  "version": "0.1.0",
+  "description": "Skill for agents to generate more natural writing via tier-based prompt strategies.",
+  "main": "index.js",
+  "type": "commonjs",
+  "files": [
+    "index.js",
+    "prompt.md",
+    "SKILL.md"
+  ],
+  "author": "Zamdevio",
+  "license": "MIT"
+}
