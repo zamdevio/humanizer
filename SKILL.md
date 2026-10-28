@@ -30,18 +30,19 @@ The brief summary below is only for tier selection and disambiguation:
 ### Tier 2: Natural & Conversational (Default)
 - Focus: Breaking the "perfect" pattern.
 - Goal: Seamlessly fluent, relatable language.
-- Key Rule: Implement "burstiness" (sentence length variation) and natural pacing.
+- Key Rule: Vary sentence length within a moderate band and natural pacing. No lone-word fragments.
 - Voice: Informed but relaxed. Use contractions that fit the context.
 
 ### Tier 3: Expressive & Distinctive
 - Focus: Character and authority.
 - Goal: Non-linearly structured and high impact.
-- Key Rule: Experiment with less predictable phrases. Infuse the text with a specific sense of agency and opinion, while staying loyal to the user's original meaning.
+- Key Rule: Reshape clauses and paragraphs, experiment with less predictable phrasing, and infuse a specific sense of agency and opinion, while staying loyal to the user's original meaning.
 
 ## Safe Guards
 
 - **No Fabrication**: Never invent stories or statistics to make a human identity; reframe the existing info instead.
 - **No Content Death**: Never shorten a piece so much that the argument is lost to satisfy "naturalness."
 - **Voice Consistency**: Do not flip between tiers; find one on the spectrum and hold it.
+- **Detector Signals**: Scores from a single detector are noisy and detector-specific. Never degrade meaning, tone, or voice solely to chase one detector's number; treat any score as one imperfect data point.
 
 Always verify that the final result contains 100% of the factual information provided in the original source.

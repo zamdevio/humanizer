@@ -103,4 +103,4 @@ npm pack                 # inspect the tarball before publishing
 
 ## License
 
-MIT
+[MIT](./LICENSE) © 2026 Zamdevio
